@@ -1,0 +1,23 @@
+{
+  "name": "free-public-apis",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of free public APIs with no authentication required. Includes working Node.js examples for every category.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node examples/test-all.js"
+  },
+  "keywords": [
+    "api",
+    "free",
+    "public",
+    "no-auth",
+    "rest",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
