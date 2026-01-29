@@ -436,6 +436,8 @@ node examples/animals.js
 
 ---
 
+MADE BY FIREKID 
+
 ## Contributing
 
 Feel free to contribute by adding new APIs or improving examples.
