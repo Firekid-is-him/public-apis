@@ -436,7 +436,7 @@ node examples/animals.js
 
 ---
 
-MADE BY FIREKID 
+COMPILED BY FIREKID 
 
 ## Contributing
 
